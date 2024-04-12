@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "custom-cspell-dict",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.4.5"
+    "@cspell/dict-npm": "5.0.15"
   }
 }
